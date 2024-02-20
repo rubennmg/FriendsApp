@@ -1,3 +1,3 @@
-# Firs ruby on rails app
+# First ruby on rails app
 Friends list
 ~ rubennmg
